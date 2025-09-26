@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity {
     private static final int REQUEST_PERMISSIONS_CODE = 100;
     
     // Default URL address
-    private static final String DEFAULT_BASE_URL = "https://gptbots-auto.qa.jpushoa.com/space/h5/home";
+    private static final String DEFAULT_BASE_URL = "https://your-base-url.com/";
     
     // Default AiToken value
     private static final String DEFAULT_AI_TOKEN = "YOUR_AI_TOKEN";
