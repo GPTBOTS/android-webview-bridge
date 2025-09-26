@@ -2,7 +2,7 @@
 
 ## Overview
 
-This Android application provides a WebView container for seamlessly integrating and interacting with the web workspace at [https://gptbots-auto.qa.jpushoa.com/space/h5/home](https://gptbots-auto.qa.jpushoa.com/space/h5/home). The app features a robust bidirectional communication bridge between native Android components and H5 web pages, with support for various permissions and file operations.
+This Android application provides a WebView container for seamlessly integrating and interacting with the web workspace. The app features a robust bidirectional communication bridge between native Android components and H5 web pages, with support for various permissions and file operations.
 
 ## Features
 
